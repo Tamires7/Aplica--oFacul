@@ -25,11 +25,50 @@
 }
 
 .navbar-brand {
-  width: 10px;
-
+  width: 66%;
+  height: 0%;
+  margin: auto;
+  display: flex;
+ 
+}
+a.navbar-brand {
+   margin: auto;
+  display: flex;
 }
 
 .card {
   position: relative;
  
+}
+
+.container-fluid col-11 m-auto {
+  margin-block-end: auto ;
+  display: flex;
+}
+
+body header footer h2.text-center  {
+  background-color: white;
+  width: 30%;
+  margin: auto;
+}
+
+body header footer .text-lg-center {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: small;
+  display: flexbox;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p.text-center {
+  font-size: x-small;
+  text-align: justify;
+}
+
+p.card-text {
+  font-size: small;
+}
+
+body {
+  margin: auto;
 }
