@@ -32,9 +32,7 @@
  
 }
 a.navbar-brand {
-  margin: auto;
-  padding-right: 60%;
-  
+  font-size: medium;
 
 }
 
@@ -71,6 +69,8 @@ p.card-text {
   font-size: small;
 }
 
-body {
+.body {
   margin: auto;
 }
+
+
