@@ -32,8 +32,10 @@
  
 }
 a.navbar-brand {
-   margin: auto;
-  display: flex;
+  margin: auto;
+  padding-right: 60%;
+  
+
 }
 
 .card {
@@ -55,13 +57,13 @@ body header footer h2.text-center  {
 body header footer .text-lg-center {
   margin-left: 20%;
   margin-right: 20%;
-  font-size: small;
+  font-size: medium;
   display: flexbox;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 p.text-center {
-  font-size: x-small;
+  font-size: medium;
   text-align: justify;
 }
 
